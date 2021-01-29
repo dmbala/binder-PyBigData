@@ -2,7 +2,7 @@ name: dask-ml
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.6
   - git
   - nodejs
   - jupyterlab>=2.0.0
